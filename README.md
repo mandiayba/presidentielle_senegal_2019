@@ -1,6 +1,6 @@
 # 2019 Senegalese presidential election
 
-## Provisional results (see csv files for detailed results)[https://github.com/mandiayba/presidentielle_senegal_2019]
+## Still Provisional Results [see csv files for detailed results](https://github.com/mandiayba/presidentielle_senegal_2019)
 
 ### Madické Niang  -- 01.48 %
 ### Issa Sall      -- 04.07 %
