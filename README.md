@@ -1,4 +1,4 @@
-# 2019 Senegalese presidential election
+# Data of 2019 Senegalese presidential election
 
 ## Still Provisional Results [see csv files for detailed results](https://github.com/mandiayba/presidentielle_senegal_2019)
 
