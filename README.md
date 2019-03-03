@@ -19,7 +19,7 @@
 * Inscrits       -- 6 683 043 
 * Participation  -- 66.23 %
 
-[comment]: <>  ## Exemples de questions polémiques à vérifier
+[comment]:  ## Exemples de questions polémiques à vérifier
 
 [comment]: <>  * Existe-t-il des localités où le nombre de votants est supérieur au nombre d'habitants en age de voter ?
 [comment]: <> * Existe-t-il des localités où le nombre de nouveaux inscrits a augmenter plus que les autres ? 
