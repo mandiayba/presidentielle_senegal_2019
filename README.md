@@ -3,7 +3,7 @@
 ## [CSV files for detailed data](https://github.com/mandiayba/presidentielle_senegal_2019)
 ### Detailed results collected
 * [/resultats_par_departement_et_monde](https://github.com/mandiayba/presidentielle_senegal_2019/blob/master/resultats_par_departement_et_monde.csv)
-* [/resultats_par_departement_et_pays_monde ](https://github.com/mandiayba/presidentielle_senegal_2019/blob/master/resultats_par_departement.csv)
+* [/resultats_par_departement_et_pays_monde (quelques données manquantes)](https://github.com/mandiayba/presidentielle_senegal_2019/blob/master/resultats_par_departement.csv)
 
 ### Projection évolution population Sénégal de 2013 à 2025
 * [/projection_population_senegal_ands](https://github.com/mandiayba/presidentielle_senegal_2019/blob/master/projection_population_senegal_ands.csv)
