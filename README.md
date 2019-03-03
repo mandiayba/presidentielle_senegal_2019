@@ -6,7 +6,7 @@
 * [/resultats_par_departement_et_pays_monde ](https://github.com/mandiayba/presidentielle_senegal_2019/blob/master/resultats_par_departement.csv)
 
 ### Projection évolution population Sénégal de 2013 à 2025
-* [projection_population_senegal_ands](https://github.com/mandiayba/presidentielle_senegal_2019/blob/master/projection_population_senegal_ands.csv)
+* [/projection_population_senegal_ands](https://github.com/mandiayba/presidentielle_senegal_2019/blob/master/projection_population_senegal_ands.csv)
 * Age mediane = Age pour voter = 18 ans
 
 ## Results (Still Provisional)
