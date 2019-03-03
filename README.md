@@ -1,6 +1,6 @@
 # Data of 2019 Senegalese presidential election
 
-## CSV files for detailed data](https://github.com/mandiayba/presidentielle_senegal_2019)
+## [CSV files for detailed data](https://github.com/mandiayba/presidentielle_senegal_2019)
 ### Detailed results collected
 * [/resultats_par_departement_et_monde](https://github.com/mandiayba/presidentielle_senegal_2019/blob/master/resultats_par_departement_et_monde.csv)
 * [/resultats_par_departement_et_pays_monde ](https://github.com/mandiayba/presidentielle_senegal_2019/blob/master/resultats_par_departement.csv)
@@ -10,17 +10,17 @@
 * Age mediane = Age pour voter = 18 ans
 
 ## Still Provisional Results 
-### Madické Niang  -- 01.48 %
-### Issa Sall      -- 04.07 %
-### Macky Sall     -- 58.27 %
-### Idrissa Seck   -- 20.50 %
-### Ousmane Sonko  -- 15.67 %
+* Madické Niang  -- 01.48 %
+* Issa Sall      -- 04.07 %
+* Macky Sall     -- 58.27 %
+* Idrissa Seck   -- 20.50 %
+* Ousmane Sonko  -- 15.67 %
 
-### Inscrits       -- 6 683 043 
-### Participation  -- 66.23 %
+* Inscrits       -- 6 683 043 
+* Participation  -- 66.23 %
 
-## Exemples de questions polémiques à vérifier
+[comment]: <>  ## Exemples de questions polémiques à vérifier
 
-* Existe-t-il des localités où le nombre de votants est supérieur au nombre d'habitants en age de voter ?
-* Existe-t-il des localités où le nombre de nouveaux inscrits a augmenter plus que les autres ? 
+[comment]: <>  * Existe-t-il des localités où le nombre de votants est supérieur au nombre d'habitants en age de voter ?
+[comment]: <> * Existe-t-il des localités où le nombre de nouveaux inscrits a augmenter plus que les autres ? 
 
