@@ -9,7 +9,7 @@
 * [projection_population_senegal_ands](https://github.com/mandiayba/presidentielle_senegal_2019/blob/master/projection_population_senegal_ands.csv)
 * Age mediane = Age pour voter = 18 ans
 
-## Still Provisional Results 
+## Results (Still Provisional)
 * Madické Niang  -- 01.48 %
 * Issa Sall      -- 04.07 %
 * Macky Sall     -- 58.27 %
@@ -19,8 +19,8 @@
 * Inscrits       -- 6 683 043 
 * Participation  -- 66.23 %
 
-[comment]:  ## Exemples de questions polémiques à vérifier
-
-[comment]: <>  * Existe-t-il des localités où le nombre de votants est supérieur au nombre d'habitants en age de voter ?
+<!---
+[comment]: <> ## Exemples de questions polémiques à vérifier
+[comment]: <> * Existe-t-il des localités où le nombre de votants est supérieur au nombre d'habitants en age de voter ?
 [comment]: <> * Existe-t-il des localités où le nombre de nouveaux inscrits a augmenter plus que les autres ? 
-
+-->
