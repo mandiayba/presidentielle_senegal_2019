@@ -1,6 +1,6 @@
 # Data of 2019 Senegalese presidential election
 
-## [CSV files for detailed data](https://github.com/mandiayba/presidentielle_senegal_2019)
+## [See CSV files for detailed data](https://github.com/mandiayba/presidentielle_senegal_2019)
 ### Detailed results collected
 * [/resultats_par_departement_et_monde](https://github.com/mandiayba/presidentielle_senegal_2019/blob/master/resultats_par_departement_et_monde.csv)
 * [/resultats_par_departement_et_pays_monde (quelques données manquantes)](https://github.com/mandiayba/presidentielle_senegal_2019/blob/master/resultats_par_departement.csv)
